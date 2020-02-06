@@ -1,0 +1,83 @@
+C:\Users\win7\Desktop\NesneForm\NesneForm\bin\Release\NesneForm.exe.config
+C:\Users\win7\Desktop\NesneForm\NesneForm\bin\Release\NesneForm.exe
+C:\Users\win7\Desktop\NesneForm\NesneForm\bin\Release\NesneForm.pdb
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.Form1.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.OgrenciOdeme.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.TamOdeme.resources
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.exe
+C:\Users\win7\Desktop\NesneForm\NesneForm\obj\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\bin\Release\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\bin\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\bin\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.OgrenciOdeme.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.TamÖdeme.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Release\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\bin\Release\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\bin\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\bin\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Release\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\bin\Release\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\bin\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\bin\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\bin\Release\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\bin\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\bin\Release\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Release\NesneForm.pdb

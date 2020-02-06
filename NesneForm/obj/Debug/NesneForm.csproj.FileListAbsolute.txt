@@ -1,0 +1,117 @@
+C:\Users\user\Desktop\NesneForm\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\user\Desktop\NesneForm\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\user\Desktop\NesneForm\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.pdb
+C:\Users\user\Desktop\NesneForm\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.OgrenciOdeme.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.TamÖdeme.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm\NesneForm\obj\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm2\NesneForm\obj\Debug\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\NesneForm4\NesneForm\obj\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\160101016_150101030\NesneForm\obj\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Bitis.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.FilmEkle.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Secenekler.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\win7\Desktop\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.pdb
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\bin\Debug\NesneForm.exe.config
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\bin\Debug\NesneForm.exe
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\bin\Debug\NesneForm.pdb
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Bitis.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.FilmEkle.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Form1.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.MusteriBiletSecimi.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.MUSTERIGIRISI.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.Secenekler.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.ÖdemeYap.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.ToplamIzleyiciSayisi.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.YoneticiGirisi.resources
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.csproj.GenerateResource.cache
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.csproj.CoreCompileInputs.cache
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.exe
+C:\Users\win7\Documents\Visual Studio Project\Object Oriented Programming\Sinema Bilet Satışı(Nesne Proje 1)\NesneForm\obj\Debug\NesneForm.pdb
